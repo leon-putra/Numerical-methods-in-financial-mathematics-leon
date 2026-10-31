@@ -4,14 +4,14 @@ This is compilation of my assignment for Numerical Methods in Financial Mathemat
 
 On this repository, you can find some of my coding about:
 
-Computer Arithmetic: Quadratic Equation
+1. Computer Arithmetic: Quadratic Equation
 
-Computer Arithmetic: Summation
+2.Computer Arithmetic: Summation
 
-Monte-Carlo Integration
+3. Monte-Carlo Integration
 
-ICDF for Inhomogeneous Exponential Distribution
+4. ICDF for Inhomogeneous Exponential Distribution
 
-Monte-Carlo Control Variate for an Asian Option under the Black Scholes Model
+5. Monte-Carlo Control Variate for an Asian Option under the Black Scholes Model
 
 I would like to thanks Prof Christian Fries, Alessandro Sgarabottolo, and Niklas Weber for all the knowledge and skills that they taught me on this course.
