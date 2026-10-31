@@ -3,6 +3,7 @@
 This is compilation of my assignment for Numerical Methods in Financial Mathematics courses at LMU. 
 
 On this repository, you can find some of my coding about:
+
 Computer Arithmetic: Quadratic Equation
 
 Computer Arithmetic: Summation
