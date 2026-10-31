@@ -6,7 +6,7 @@ On this repository, you can find some of my coding about:
 
 1. Computer Arithmetic: Quadratic Equation
 
-2.Computer Arithmetic: Summation
+2. Computer Arithmetic: Summation
 
 3. Monte-Carlo Integration
 
