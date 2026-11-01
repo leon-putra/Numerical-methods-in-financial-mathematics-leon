@@ -1,8 +1,8 @@
 # Numerical-Methods in Financial Mathematics Leon
 
-This is compilation of my assignment for Numerical Methods in Financial Mathematics courses at LMU. 
+This is a compilation of my assignments for the Numerical Methods in Financial Mathematics courses at LMU. It's based on the starter code my professor provided.
 
-On this repository, you can find some of my coding about:
+In this repository, you can find some of my code on:
 
 1. Computer Arithmetic: Quadratic Equation
 
@@ -12,6 +12,6 @@ On this repository, you can find some of my coding about:
 
 4. ICDF for Inhomogeneous Exponential Distribution
 
-5. Monte-Carlo Control Variate for an Asian Option under the Black Scholes Model
+5. Monte-Carlo Control Variate for an Asian Option under the Black-Scholes Model
 
-I would like to thanks Prof Christian Fries, Alessandro Sgarabottolo, and Niklas Weber for all the knowledge and skills that they taught me on this course.
+I would like to thank Prof. Christian Fries, Alessandro Sgarabottolo, and Niklas Weber for the knowledge and skills they taught me in this course.
